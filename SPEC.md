@@ -17,3 +17,5 @@ autor, status de leitura, avaliação e citação favorita.
 ## Paleta
 - Fundo creme `#FAF6EE`, texto azul-marinho `#0F172A`.
 - Destaques em dourado `#F59E0B` e ciano `#38BDF8`.
+
+## Roadmap
